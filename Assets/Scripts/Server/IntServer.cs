@@ -1,7 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-
-public class IntServer : Server
+﻿public class IntServer : Server
 {
     protected override void OnMessage(string msg)
     {
